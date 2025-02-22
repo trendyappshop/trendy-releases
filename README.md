@@ -3,18 +3,17 @@
 ## 📌 معرفی پروژه
 این پروژه یک سیستم سفارش‌گیری آنلاین برای خرید محصولات از وب‌سایت‌های خارجی است. کاربران می‌توانند از طریق اپلیکیشن موبایل **Android، iOS و PWA** به خدمات دسترسی پیدا کنند. اپلیکیشن با **Flutter** توسعه یافته و بک‌اند سیستم با استفاده از **Django** و **Django REST Framework** طراحی شده است.
 
---- 
+
 ## 📥 دانلود و نصب اپلیکیشن | Download & Install
 
 برای دانلود آخرین نسخه اپلیکیشن بر روی لینک زیر کلیک کنید:
 
-🔗 [**دانلود مستقیم آخرین نسخه**](https://github.com/your-repo/releases/latest/download/app.apk)
+🔗 [**دانلود مستقیم آخرین نسخه**](https://github.com/trendyappshop/trendy-releases/releases/latest)
 
 To download the latest version, click the link below:
 
-🔗 [**Direct Download (Latest Release)**](https://github.com/your-repo/releases/latest/download/app.apk)
+🔗 [**Direct Download (Latest Release)**](https://github.com/trendyappshop/trendy-releases/releases/latest)
 
----
 
 ## ✨ ویژگی‌های اصلی پروژه
 
