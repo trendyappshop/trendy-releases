@@ -26,7 +26,8 @@ To download the latest version, click the link below:
 - در حال حاضر فقط **ترندیول** در دسترس است.
 - وب‌سایت ترندیول در **WebView** نمایش داده می‌شود.
 
-### 🈯 ترجمه ماشینی صفحات
+### 🌐 ترجمه ماشینی صفحات
+
 - امکان ترجمه محتوا به فارسی در **WebView**.
 - استفاده از **APIهای ترجمه ماشینی** برای ترجمه لحظه‌ای.
 
@@ -109,23 +110,6 @@ This project is an online ordering system that allows users to purchase products
 
 ---
 
-## 🛠️ نحوه اجرا | How to Run
-1. **Backend** (Django):
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo/backend
-   pip install -r requirements.txt
-   python manage.py migrate
-   python manage.py runserver
-   ```
-2. **Frontend** (Flutter):
-   ```bash
-   cd your-repo/frontend
-   flutter pub get
-   flutter run
-   ```
-
----
 
 ## 📞 ارتباط با ما | Contact Us
 📧 ایمیل: support@trendyapp.shop
